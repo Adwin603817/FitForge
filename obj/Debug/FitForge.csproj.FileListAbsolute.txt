@@ -1,0 +1,7 @@
+C:\Users\jorda\OneDrive\Desktop\FOLDERS\BC\BIT 1 Year Modules\PRG172\Project\FitForge\bin\Debug\FitForge.exe.config
+C:\Users\jorda\OneDrive\Desktop\FOLDERS\BC\BIT 1 Year Modules\PRG172\Project\FitForge\bin\Debug\FitForge.exe
+C:\Users\jorda\OneDrive\Desktop\FOLDERS\BC\BIT 1 Year Modules\PRG172\Project\FitForge\bin\Debug\FitForge.pdb
+C:\Users\jorda\OneDrive\Desktop\FOLDERS\BC\BIT 1 Year Modules\PRG172\Project\FitForge\obj\Debug\FitForge.csproj.AssemblyReference.cache
+C:\Users\jorda\OneDrive\Desktop\FOLDERS\BC\BIT 1 Year Modules\PRG172\Project\FitForge\obj\Debug\FitForge.csproj.CoreCompileInputs.cache
+C:\Users\jorda\OneDrive\Desktop\FOLDERS\BC\BIT 1 Year Modules\PRG172\Project\FitForge\obj\Debug\FitForge.exe
+C:\Users\jorda\OneDrive\Desktop\FOLDERS\BC\BIT 1 Year Modules\PRG172\Project\FitForge\obj\Debug\FitForge.pdb
